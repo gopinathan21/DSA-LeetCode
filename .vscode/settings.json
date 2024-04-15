@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "85. Maximal Rectangle",
+        "42. Trapping Rain Water",
+        "402. Remove K Digits",
+        "1768. Merge Strings Alternately",
+        "84. Largest Rectangle in Histogram"
+    ]
+}
+{
+    "java.debug.settings.onBuildFailureProceed": true
+}
